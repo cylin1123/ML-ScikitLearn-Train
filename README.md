@@ -55,3 +55,5 @@ Step 6. 是否是文字資料：不是
 Step 7. 選擇 KNeighborsClassifier 模型（第二個選擇的模型）
 Step 8. 後續優化 / SVC / Ensemble
 ~~~
+## 資料預處理與特徵工程
+![Screenshot](https://happycoder.org/images/data-science101/scikit-learn/ml-pipeline.png)
