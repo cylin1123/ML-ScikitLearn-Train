@@ -26,3 +26,5 @@ pip install pandas
 # Ubuntu 
 sudo apt-get install python-matplotlib
 ~~~
+## Flow Chart
+![Screenshot](http://scikit-learn.org/stable/_static/ml_map.png)
