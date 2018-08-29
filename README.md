@@ -12,7 +12,7 @@ sudo apt-get install python-numpy
 ~~~
 pip install SciPy
 ~~~
-* Scikit-learn
+* [Scikit-learn](http://scikit-learn.org/stable/user_guide.html)
 ~~~
 pip install -U scikit-learn
 ~~~
