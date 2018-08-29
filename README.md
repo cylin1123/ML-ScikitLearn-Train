@@ -33,6 +33,12 @@ sudo apt-get install python-matplotlib
 * 訓練模型與校調 (Model Training)
 * 模型驗證 (Model Predict & Testing)
 * 模型優化 (Model Optimization)
+~~~
+分類模型優化
+* 特徵工程：選擇更適合特徵值或是更好的資料清理，某種程度上很需要專業知識的協助（domain konwledge）去發現和整合出更好的 feature
+* 調整模型參數：調整模型的參數
+* 模型融合：結合幾個弱分類器結果來變成強的分類器
+~~~
 * 上線運行 (Deploy Model)
 
 ## Flow Chart
