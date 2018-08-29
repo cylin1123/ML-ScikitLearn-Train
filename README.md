@@ -43,3 +43,13 @@ sudo apt-get install python-matplotlib
 
 ## Flow Chart
 ![Screenshot](http://scikit-learn.org/stable/_static/ml_map.png)
+
+* Iris 分析模型選擇流程
+Step 1. 樣本資料是否大於 50 筆：範例資料集總共有 150 筆資料，大於 50
+Step 2. 是否為分類問題：Iris 花朵類別預測是多類別分類問題
+Step 3. 是否有標籤好的資料：已經有 label 資料
+Step 4. 樣本資料是否小於 100K：資料小於 100K
+Step 5. 選擇 Linear SVC 模型（第一個選擇的模型）
+Step 6. 是否是文字資料：不是
+Step 7. 選擇 KNeighborsClassifier 模型（第二個選擇的模型）
+Step 8. 後續優化 / SVC / Ensemble
