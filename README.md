@@ -5,9 +5,6 @@ Machine Learning  -ScikitLearn-Train-DigitsExample
 * NumPy (>= 1.8.2)
 ~~~
 pip install numpy
-~~~
-or
-~~~
 sudo apt-get install python-numpy
 ~~~
 
