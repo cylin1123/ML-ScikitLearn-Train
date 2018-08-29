@@ -12,6 +12,10 @@ sudo apt-get install python-numpy
 ~~~
 pip install SciPy
 ~~~
+* Scikit-learn
+~~~
+pip install -U scikit-learn
+~~~
 
 * Pandas
 ~~~
