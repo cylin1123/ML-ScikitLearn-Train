@@ -61,5 +61,5 @@ Step 8. 後續優化 / SVC / Ensemble
 ## 模型驗證 (Model Predict & Testing)
 監督式學習的分類問題通常會分為訓練模型和驗證模型，使用 Predict 產生對應的目標值，同時和正確答案（已標好的目標值）比較即可知道模型預測之正確率。
 
-![Screenshot] https://happycoder.org/images/data-science101/scikit-learn/train-test-phase.png
+![Screenshot](https://happycoder.org/images/data-science101/scikit-learn/train-test-phase.png)
 
